@@ -1,0 +1,12 @@
+com\test\Servlet\LogoutServlet.class
+com\test\Servlet\ProductOperationServlet.class
+com\test\test\helper\FactoryProvider.class
+com\test\Servlet\SignupServlet.class
+com\test\Servlet\LoginServlet.class
+com\test\entities\Category.class
+com\test\test\helper\helper.class
+com\test\entities\Product.class
+com\test\dao\ProductDao.class
+com\test\dao\UserDao.class
+com\test\entities\User.class
+com\test\dao\CategoryDao.class
